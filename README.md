@@ -22,3 +22,5 @@
 < p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=agustinm3&show_icons=true&locale=en" alt="agustinm3" /></p>
 
 < p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=agustinm3&" alt="agustinm3" /></p>
+
+<img src="https://media2.giphy.com/media/MHmkrR9D9gviU/giphy.webp?cid=82a1493b1u3m88yy3bnsq11dyrcnypeeakmowbgw8km0awr1&ep=v1_gifs_trending&rid=giphy.webp&ct=g">
