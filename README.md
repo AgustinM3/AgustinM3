@@ -23,4 +23,4 @@
 
 < p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=agustinm3&" alt="agustinm3" /></p>
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzBjaXV0Ym0yNm9xcDEwc3l5a2U0MGxpdDlreWZmOWF6bW9nZzB1cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9eNkRy4bCkttC/giphy.gif">
+<img src="https://media2.giphy.com/media/7ojeb3qz5r9jG/giphy.webp?cid=82a1493bhvmel46qm5qwyk7div838qge0x0qboqusxug9yyk&ep=v1_gifs_trending&rid=giphy.webp&ct=g">
